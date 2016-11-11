@@ -5,7 +5,7 @@ var ingredients = [{"id": 1, "text": "ham"}, {"id": 2, "text":"cheese"}, {"id": 
 
 var List = React.createClass({
   render: function() {
-    var ListItems = ingredients.map(function(item) {
+    var listItems = ingredients.map(function(item) {
       return <ListItem key={item.id} ingredient={item.text} />;
     });
 
