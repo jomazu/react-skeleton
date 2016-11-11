@@ -1,6 +1,6 @@
 ## Environment Tools: The Facebook Way
 
-- [Browserify](http://browserify.org/){:target="_blank"} - allows you to write code (in the browser) that uses `require`, in the same way you would use it in Node.js. In essence, it allows the browser to use NPM modules.
+- <a href="http://browserify.org/" target="_blank" rel="noopener">Browserify</a> - allows you to write code (in the browser) that uses `require`, in the same way you would use it in Node.js. In essence, it allows the browser to use NPM modules.
 
 - <a href="https://babeljs.io/" target="_blank">Babel</a> - compiles statically (strongly) typed code (e.g. <a href="http://www.ecma-international.org/ecma-262/6.0/index.html" target="_blank">ES6</a> or <a href="https://jsx.github.io/" target="_blank">JSX</a>) to dynamically (weakly) typed, browser-readable JavaScript.
 
